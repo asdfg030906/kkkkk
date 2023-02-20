@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1 {
+    font-family: 'Single Day', cursive;
+    color: #b2876f;
+    margin-top: 150px;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 100px;
+}
+.next, .c{
+    text-align: center;  
+}
+
+.next input{
+    text-align: center;  
+    padding-left: 218px;
+    padding-right: 218px;
+
+}
+.c input{
+    text-align: center;  
+    padding-left: 230px;
+    padding-right: 230px;
+
+}
+input {
+   margin-top: 30px;
+    background-color: white;
+    color:  #b2876f;
+    border-color: #b2876f;
+   border-right-color: #b2876f;
+    border-radius: 4px;
+    padding: 20px;
+    text-align: center;  
+}
+a{
+    color: #b2876f;
+    text-decoration: none;
+    font-size: 20px;
+    font-family: 'Single Day', cursive;
+}
+input:hover{
+    color: white;
+    box-shadow: rgba(230, 174, 158, 0.7) 0 0px 0px 40px inset;
+}
